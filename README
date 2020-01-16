@@ -1,1 +1,4 @@
-70m 
+Fire Snake for David Britts, made for Spier Light Art 2019. 
+
+2 back-to-back strips of 14x5m LEDs spanning 70m. Colour changes and chasing animations controlled by 3 x Teensy 3.6s.
+Power supplied every 10m from 12v IP67 PSUs with kettle plugs.
